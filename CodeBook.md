@@ -1,13 +1,20 @@
+
 Codebook
 
 ID - A unique identifier for each study participant ranging from 1 to 30
 
 Label - One of six different activities for which measurements were obtained (see below); the activities are:
+
 1. Walking
+
 2. Walking upstairs
+
 3. Walking downstairs
+
 4. Sitting
+
 5. Standing
+
 6. Laying
 
 Description of measurements - taken from features_info.txt
@@ -24,24 +31,41 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals for the tidy.data set are: 
 
 mean(): Mean value
+
 std(): Standard deviation
