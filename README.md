@@ -1,5 +1,5 @@
 
-Getting & Cleaning Data Course Project
+#Getting & Cleaning Data Course Project
 
 The data for this project was sourced from
 
@@ -98,5 +98,4 @@ For the final step, the values in all columns (except "Group" and "Activity") fi
 The final tidy data set depicting the average of each variable and each activity and each subject was put together using the aggregate() function.
 
 
-# G-CFinal
-Getting &amp; Cleaning Data Course Project
+
